@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"bab",
+		" n ",
+		" i "
+	],
+	"key": {
+		"i": "minecraft:gold_ingot",
+		"b": "minecraft:gold_block",
+		"a": "minecraft:amethyst_shard",
+		"n": "minecraft:nether_star"
+	},
+	"result": {
+		"id": "minecraft:stick",
+		"components": {
+			"minecraft:item_model": "wizardwand:gamblewand",
+			"minecraft:item_name": {
+				"text": "",
+				"extra": [
+					{ "text": "k", "color": "gold", "obfuscated": true },
+					{ "translate": "id.item.name.advanced", "color": "aqua", "bold": true },
+					{ "translate": "id.item.name.gamble", "color": "#ff0000", "bold": true },
+					{ "translate": "id.item.name.gamblewand", "color": "#000000", "bold": true },
+					{ "text": "k", "color": "gold", "obfuscated": true }
+				]
+			},
+			"minecraft:custom_data": "{gamble_wand_t2:true}",
+			"minecraft:consumable": {
+				"animation":"block",
+				"consume_seconds": 1000000
+			},
+			"minecraft:max_stack_size": 1
+		}
+	}
+}

@@ -1,0 +1,1 @@
+give @p stick[item_name='Ice Wand',custom_data={ice_wand_t3:true},consumable={animation:"block",consume_seconds:1000000}, max_stack_size=1]

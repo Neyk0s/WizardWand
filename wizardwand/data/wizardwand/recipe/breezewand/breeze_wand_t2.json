@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "waw",
+    " s ",
+    " r "
+  ],
+  "key": {
+    "w": "minecraft:wind_charge",
+    "a": "minecraft:amethyst_shard",
+    "s":  "minecraft:nether_star",
+    "r":  "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:breezewand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.apprentice", "color": "aqua", "bold": true},
+          { "translate": "id.item.name.breeze", "color": "#A1C1D1" }
+        ]
+      },
+      "minecraft:custom_data": "{breeze_wand_t2:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

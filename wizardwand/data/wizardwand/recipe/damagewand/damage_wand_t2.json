@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " fe",
+    " sw",
+    " sl"
+  ],
+  "key": {
+    "f": "minecraft:string",
+    "s": "minecraft:stick",
+    "w": "minecraft:cobweb",
+    "e": "minecraft:fermented_spider_eye",
+    "l": "minecraft:lingering_potion"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:damagewand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.apprentice", "color": "aqua", "bold": true},
+          { "translate": "id.item.name.damage", "color": "#7a0e02" }
+        ]
+      },
+      "minecraft:custom_data": "{damage_wand_t2:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "charge_magic_wand": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:stick",
+          "predicates": {
+            "minecraft:custom_data": "{snow_wand_t1:true}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "wizardwand:snowwand/t1/charging"
+  }
+}

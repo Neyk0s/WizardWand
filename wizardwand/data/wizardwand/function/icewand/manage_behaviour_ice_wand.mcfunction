@@ -1,0 +1,5 @@
+function wizardwand:icewand/particles
+execute as @e[tag=ice_projectile_t1] at @s as @e[type=!minecraft:snowball,type=!minecraft:item,type=!minecraft:experience_orb,tag=!ice_protect,distance=..2.5] run function wizardwand:icewand/t1/snowball_hit
+execute as @e[tag=ice_projectile_t2] at @s as @e[type=!minecraft:snowball,type=!minecraft:item,type=!minecraft:experience_orb,tag=!ice_protect,distance=..2.5] run function wizardwand:icewand/t2/snowball_hit
+execute as @e[tag=ice_projectile_t3] at @s as @e[type=!minecraft:snowball,type=!minecraft:item,type=!minecraft:experience_orb,tag=!ice_protect,distance=..2.5] run function wizardwand:icewand/t3/snowball_hit
+execute as @e[tag=ice_projectile_gamble] at @s as @e[type=!minecraft:snowball,type=!minecraft:item,type=!minecraft:experience_orb,tag=!ice_protect,distance=..2.5] run function wizardwand:icewand/gamble/snowball_hit

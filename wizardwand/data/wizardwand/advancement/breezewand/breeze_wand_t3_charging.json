@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "charge_magic_wand": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:stick",
+          "predicates": {
+            "minecraft:custom_data": "{breeze_wand_t3:true}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "wizardwand:breezewand/t3/charging"
+  }
+}

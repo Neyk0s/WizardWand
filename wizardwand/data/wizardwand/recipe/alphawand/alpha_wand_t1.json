@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bab",
+    " r ",
+    " r "
+  ],
+  "key": {
+    "b": "minecraft:bone",
+    "a": "minecraft:amethyst_shard",
+    "r": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:alphawand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.novice", "color": "green", "bold": true},
+          { "translate": "id.item.name.alpha", "color": "#808080"}
+        ]
+      },
+      "minecraft:custom_data": "{alpha_wand_t1:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

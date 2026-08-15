@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "placed_head": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:zombie_head"
+      }
+    }
+  },
+  "rewards": {
+    "function": "wizardwand:lichking/trigger_check"
+  }
+}

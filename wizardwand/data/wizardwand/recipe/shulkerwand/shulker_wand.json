@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sas",
+    " r ",
+    " r "
+  ],
+  "key": {
+    "s": "minecraft:shulker_shell",
+    "a": "minecraft:amethyst_shard",
+    "r": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:shulkerwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.master", "color": "gold", "bold": true},
+          { "translate": "id.item.name.shulker", "color": "#730096" }
+        ]
+      },
+      "minecraft:custom_data": "{shulker_wand_t1:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

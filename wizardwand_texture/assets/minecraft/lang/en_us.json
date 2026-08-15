@@ -1,0 +1,137 @@
+{
+  "id.item.name.novice": "Novice",
+  "id.item.name.advanced": "Apprentice",
+  "id.item.name.master": "Master",
+
+  "id.item.name.alpha": " Alpha wand",
+  "id.item.name.blaze": " Blaze wand",
+  "id.item.name.breeze": " Breeze wand",
+  "id.item.name.damage": " Damage wand",
+  "id.item.name.dragon": " Dragon wand",
+  "id.item.name.fang": " Fang wand",
+  "id.item.name.fire": " Fire wand",
+  "id.item.name.gamble": " Gambler",
+  "id.item.name.gamblewand": " wand",
+  "id.item.name.giant": " Giant wand",
+  "id.item.name.heal": " Heal wand",
+  "id.item.name.ice": " Ice wand",
+  "id.item.name.iron": " Iron wand",
+  "id.item.name.jackpot": " Jackpot",
+  "id.item.name.lightning": " Lightning wand",
+  "id.item.name.mining": " Mining wand",
+  "id.item.name.poison": " Poison wand",
+  "id.item.name.shulker": " Shulker wand",
+  "id.item.name.small": " Small wand",
+  "id.item.name.snow": " Snow wand",
+  "id.item.name.teleport": " Teleport wand",
+  "id.item.name.wither": " Wither wand",
+
+  "id.item.name.lich.heart": "Lich King's Heart",
+  "id.item.name.lich.head": "Lich King's Trophy",
+
+  "id.item.name.lich.chestplate": "Lich King's Chestplate",
+  "id.item.name.lich.chestplate_upgraded": "Lich King's Magical Chestplate",
+  "id.item.lore.lich.chestplate_upgraded": "This runic chestplate, cursed by Hiyl'dilan, saved the Lich King's life countless times, until today...",
+
+  "id.item.name.lich.leggings": "Lich King's Leggings",
+  "id.item.name.lich.leggings_upgraded": "Lich King's Magical Leggings",
+  "id.item.lore.lich.leggings_upgraded": "War tribute retrieved from Wintergarde and gifted by his brother Goliath. These leggings, imbued with primal magic, have conquered many kingdoms.",
+
+  "id.item.name.lich.boots": "Lich King's Boots",
+  "id.item.name.lich.boots_upgraded": "Lich King's Magical Boots",
+  "id.item.lore.lich.boots_upgraded_alpha": "Neither water nor snow could swallow the reign of the Lich King.",
+  "id.item.lore.lich.boots_upgraded": "The ground freezes beneath the Lich King's footsteps.",
+
+  "id.craft.alpha.t1": "Alpha wand tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nb: Bone\na: Amethyst Shard\nr: Stick",
+  "id.craft.alpha.t2": "Alpha wand tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nb: Bone\na: Amethyst Shard\ns: Nether Star\nr: Stick",
+  "id.craft.alpha.t3": "Alpha wand tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nb: Bone\na: Amethyst Shard\nc: Lich King's Heart\nr: Stick",
+
+  "id.craft.blaze.t1": "Blaze wand tier 1\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\np: Blaze Powder\na: Amethyst Shard\nr: Blaze Rod",
+  "id.craft.blaze.t2": "Blaze wand tier 2\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\np: Blaze Powder\na: Amethyst Shard\ns: Nether Star\nr: Blaze Rod",
+  "id.craft.blaze.t3": "Blaze wand tier 3\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\np: Blaze Powder\na: Amethyst Shard\nc: Lich King's Heart\nr: Blaze Rod",
+
+  "id.craft.breeze.t1": "Breeze wand tier 1\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wind Charge\na: Amethyst Shard\nr: Breeze Rod",
+  "id.craft.breeze.t2": "Breeze wand tier 2\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wind Charge\na: Amethyst Shard\ns: Nether Star\nr: Breeze Rod",
+  "id.craft.breeze.t3": "Breeze wand tier 3\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wind Charge\na: Amethyst Shard\nc: Lich King's Heart\nr: Breeze Rod",
+
+  "id.craft.buff.t1": "Buff wand tier 1\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\ne: Iron Sword\na: Amethyst Shard\ng: Golden Apple\ns: Stick",
+  "id.craft.buff.t2": "Buff wand tier 2\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\ne: Diamond Sword\na: Amethyst Shard\ng: Golden Apple\nn: Nether Star\ns: Stick",
+  "id.craft.buff.t3": "Buff wand tier 3\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\ne: Netherite Sword\na: Amethyst Shard\ng: Golden Apple\nc: Lich King's Heart\ns: Stick",
+
+  "id.craft.chaos.t1": "Chaos wand\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  e  |      |\n+---+---+---+\n\nLegend:\ns: Nether Star\na: Amethyst Shard\nc: Lich King's Heart\ne: End Rod",
+
+  "id.craft.damage.t1": "Damage wand tier 1\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: String\ne: Fermented Spider Eye\ns: Stick\nl: Lingering Potion",
+  "id.craft.damage.t2": "Damage wand tier 2\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ne: Fermented Spider Eye\ns: Stick\nw: Cobweb\nl: Lingering Potion",
+  "id.craft.damage.t3": "Damage wand tier 3\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  n  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ne: Fermented Spider Eye\nn: Nether Star\nw: Cobweb\ns: Stick\nl: Lingering Potion",
+
+  "id.craft.dragon.t1": "Dragon wand tier 1\n+---+---+---+\n|  h   |  a  |  h  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nh: Dragon Head\na: Amethyst Shard\nr: End Rod",
+  "id.craft.dragon.t2": "Dragon wand tier 2\n+---+---+---+\n|  h   |  a  |  h  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nh: Dragon Head\na: Amethyst Shard\nr: End Rod",
+
+  "id.craft.fang.t1": "Fang wand tier 1\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: Flint\na: Amethyst Shard\ns: Stick",
+  "id.craft.fang.t2": "Fang wand tier 2\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: Flint\na: Amethyst Shard\nn: Nether Star\ns: Stick",
+  "id.craft.fang.t3": "Fang wand tier 3\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: Flint\na: Amethyst Shard\nc: Lich King's Heart\ns: Stick",
+
+  "id.craft.fire.t1": "Fire wand tier 1\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nf: Fire Charge\na: Amethyst Shard\nr: Blaze Rod",
+  "id.craft.fire.t2": "Fire wand tier 2\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nf: Fire Charge\na: Amethyst Shard\nn: Nether Star\nr: Blaze Rod",
+  "id.craft.fire.t3": "Fire wand tier 3\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nf: Fire Charge\na: Amethyst Shard\nc: Command Block\nr: Lich King's Heart",
+
+  "id.craft.gamble.t1": "Gambler wand tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Gold Block\na: Amethyst Shard\ni: Gold Ingot",
+  "id.craft.gamble.t2": "Gambler wand tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Gold Block\na: Amethyst Shard\nn: Nether Star\ni: Gold Ingot",
+  "id.craft.gamble.t3": "Gambler wand tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Gold Block\na: Amethyst Shard\nc: Lich King's Heart\ni: Gold Ingot",
+
+  "id.craft.giant.t1": "Giant wand tier 1\n+---+---+---+\n|  r   |  a  |  r  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nr: Rotten Flesh\na: Amethyst Shard\nn: Nether Star\ns: Stick",
+  "id.craft.giant.t2": "Giant wand tier 2\n+---+---+---+\n|  r   |  a  |  r  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nr: Rotten Flesh\na: Amethyst Shard\nc: Lich King's Heart\ns: Stick",
+
+  "id.craft.heal.t1": "Heal wand tier 1\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: String\ng: Ghast Tear\ns: Stick\nl: Lingering Potion",
+  "id.craft.heal.t2": "Heal wand tier 2\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  s  |  t  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ng: Ghast Tear\ns: Stick\nt: Turtle Scute\nl: Lingering Potion",
+  "id.craft.heal.t3": "Heal wand tier 3\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  n  |  t  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ng: Ghast Tear\nn: Nether Star\nt: Turtle Scute\ns: Stick\nl: Lingering Potion",
+
+  "id.craft.ice.t1": "Ice wand tier 1\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\ns: Snowball\na: Amethyst Shard\ni: Blue Ice",
+  "id.craft.ice.t2": "Ice wand tier 2\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\ns: Snowball\na: Amethyst Shard\nn: Nether Star\ni: Blue Ice",
+  "id.craft.ice.t3": "Ice wand tier 3\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\ns: Snowball\na: Amethyst Shard\nc: Lich King's Heart\ni: Blue Ice",
+
+  "id.craft.iron.t1": "Iron wand tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Iron Block\na: Amethyst Shard\ni: Iron Ingot",
+  "id.craft.iron.t2": "Iron wand tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Iron Block\na: Amethyst Shard\nn: Nether Star\ni: Iron Ingot",
+  "id.craft.iron.t3": "Iron wand tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Iron Block\na: Amethyst Shard\nc: Lich King's Heart\ni: Iron Ingot",
+
+  "id.craft.jackpot.t1": "Jackpot tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLegend:\nb: Diamond Block\na: Amethyst Shard\nc: Lich King's Heart\ni: Diamond",
+
+  "id.craft.lightning.t1": "Lightning wand tier 1\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nl: Lightning Rod\na: Amethyst Shard\ns: Stick",
+  "id.craft.lightning.t2": "Lightning wand tier 2\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nl: Lightning Rod\na: Amethyst Shard\nn: Nether Star\ns: Stick",
+  "id.craft.lightning.t3": "Lightning wand tier 3\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nl: Lightning Rod\na: Amethyst Shard\nc: Lich King's Heart\ns: Stick",
+
+  "id.craft.mining.t1": "Mining wand tier 1\n+---+---+---+\n|  p  |  a  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\np: Iron Pickaxe\na: Amethyst Shard\ns: Stick",
+  "id.craft.mining.t2": "Mining wand tier 2\n+---+---+---+\n|  p  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\np: Diamond Pickaxe\na: Amethyst Shard\nc: Golden Carrot\ns: Stick",
+  "id.craft.mining.t3": "Mining wand tier 3\n+---+---+---+\n|  p  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\np: Netherite Pickaxe\na: Amethyst Shard\nc: Golden Carrot\ns: Stick",
+
+  "id.craft.poison.t1": "Poison wand tier 1\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: String\ne: Spider Eye\ns: Stick\nl: Lingering Potion",
+  "id.craft.poison.t2": "Poison wand tier 2\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ne: Spider Eye\ns: Stick\nw: Fermented Spider Eye\nl: Lingering Potion",
+  "id.craft.poison.t3": "Poison wand tier 3\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  n  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLegend:\nf: String\ne: Spider Eye\nn: Nether Star\nw: Fermented Spider Eye\ns: Stick\nl: Lingering Potion",
+
+  "id.craft.shulker.t1": "Shulker wand tier 1\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\ns: Shulker Shell\na: Amethyst Shard\nr: End Rod",
+
+  "id.craft.small.t1": "Small wand tier 1\n+---+---+---+\n|  f  |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: Rabbit's Foot\na: Amethyst Shard\nn: Nether Star\ns: Stick",
+  "id.craft.small.t2": "Small wand tier 2\n+---+---+---+\n|  f  |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nf: Rabbit's Foot\na: Amethyst Shard\nc: Lich King's Heart\ns: Stick",
+
+  "id.craft.snow.t1": "Snow wand tier 1\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nc: Carved Pumpkin\na: Amethyst Shard\ns: Snow Block",
+  "id.craft.snow.t2": "Snow wand tier 2\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nc: Carved Pumpkin\na: Amethyst Shard\nn: Nether Star\ns: Snow Block",
+  "id.craft.snow.t3": "Snow wand tier 3\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  b  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLegend:\nc: Carved Pumpkin\na: Amethyst Shard\nb: Lich King's Heart\ns: Snow Block",
+
+  "id.craft.teleport.t1": "Teleport wand tier 1\n+---+---+---+\n|  e  |  a  |  e  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\ne: Ender Pearl\na: Amethyst Shard\nr: End Rod",
+  "id.craft.teleport.t2": "Teleport wand tier 2\n+---+---+---+\n|  e  |  a  |  e  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\ne: Ender Pearl\na: Amethyst Shard\nc: Lich King's Heart\nr: End Rod",
+
+  "id.craft.wither.t1": "Wither wand tier 1\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wither Skeleton Skull\na: Amethyst Shard\nr: Blaze Rod",
+  "id.craft.wither.t2": "Wither wand tier 2\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wither Skeleton Skull\na: Amethyst Shard\nn: Nether Star\nr: Blaze Rod",
+  "id.craft.wither.t3": "Wither wand tier 3\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLegend:\nw: Wither Skeleton Skull\na: Amethyst Shard\nc: Lich King's Heart\nr: Blaze Rod",
+
+  "id.dialogue.lichking.attack_1": "May my wrath fall upon the weakest!",
+  "id.dialogue.lichking.attack_2.part_1": "Soldiers of ",
+  "id.dialogue.lichking.attack_2.part_2": "Wintergarde",
+  "id.dialogue.lichking.attack_2.part_3": "! Arise!",
+  "id.dialogue.lichking.attack_3": "May the biting cold freeze your blood!",
+  "id.dialogue.lichking.attack_4": "May the plague rot you to the bone!",
+  "id.dialogue.lichking.phase_2": "Riders! Serve your king!",
+  "id.dialogue.lichking.phase_3_a": "Laurent",
+  "id.dialogue.lichking.phase_3_b": "...Lend me your strength one last time!",
+  "id.dialogue.lichking.phase_4": "I will take you down with me, miserable insect!"
+}

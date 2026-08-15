@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " fg",
+    " nt",
+    " sl"
+  ],
+  "key": {
+    "f": "minecraft:string",
+    "s": "minecraft:stick",
+    "n": "minecraft:nether_star",
+    "g": "minecraft:ghast_tear",
+    "t": "minecraft:turtle_scute",
+    "l": "minecraft:lingering_potion"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:healwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.master", "color": "gold", "bold": true},
+          { "translate": "id.item.name.heal", "color": "#ff0054" }
+        ]
+      },
+      "minecraft:custom_data": "{heal_wand_t3:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

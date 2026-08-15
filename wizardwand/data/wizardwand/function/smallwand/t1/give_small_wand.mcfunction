@@ -1,0 +1,1 @@
+give @p stick[item_name='Small Wand',custom_data={small_wand_t1:true},consumable={animation:"block",consume_seconds:1000000},max_stack_size=1] 1

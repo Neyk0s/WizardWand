@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bab",
+    " i ",
+    " i "
+  ],
+  "key": {
+    "b": "minecraft:iron_block",
+    "i": "minecraft:iron_ingot",
+    "a": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:ironwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.novice", "color": "green", "bold": true},
+          { "translate": "id.item.name.iron", "color": "#a1a1a1" }
+        ]
+      },
+      "minecraft:custom_data": "{iron_wand_t1:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

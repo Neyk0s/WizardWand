@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "waw",
+    " r ",
+    " r "
+  ],
+  "key": {
+    "w": "minecraft:wither_skeleton_skull",
+    "a": "minecraft:amethyst_shard",
+    "r":  "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:witherwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.novice", "color": "green", "bold": true},
+          { "translate": "id.item.name.wither", "color": "#171717"}
+        ]
+      },
+      "minecraft:custom_data": "{wither_wand_t1:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

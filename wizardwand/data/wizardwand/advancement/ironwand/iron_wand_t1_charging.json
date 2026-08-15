@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "charge_magic_wand": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:stick",
+          "predicates": {
+            "minecraft:custom_data": "{iron_wand_t1:true}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "wizardwand:ironwand/t1/charging"
+  }
+}

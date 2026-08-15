@@ -1,0 +1,21 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "flags": {
+      "is_sneaking": true
+    },
+    "slots": {
+      "weapon": {
+        "predicates": {
+          "minecraft:enchantments": [
+            {
+              "enchantment": "wizardwand:rogue_stealth",
+              "levels": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

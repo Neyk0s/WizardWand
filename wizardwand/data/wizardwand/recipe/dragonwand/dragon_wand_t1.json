@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "hah",
+    " r ",
+    " r "
+  ],
+  "key": {
+    "h": "minecraft:dragon_head",
+    "a": "minecraft:amethyst_shard",
+    "r": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:dragonwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.novice", "color": "green", "bold": true},
+          { "translate": "id.item.name.dragon", "color": "#8c008a" }
+        ]
+      },
+      "minecraft:custom_data": "{dragon_wand_t1:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

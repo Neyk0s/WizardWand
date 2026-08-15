@@ -1,0 +1,2 @@
+execute as @e[tag=blaze_drone,scores={blaze_timer=3}] at @s anchored eyes run function wizardwand:enchantment/wizard/t1/shot/2nd
+execute as @e[tag=blaze_drone,scores={blaze_timer=0}] at @s anchored eyes run function wizardwand:enchantment/wizard/t1/shot/3rd

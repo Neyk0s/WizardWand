@@ -1,0 +1,1 @@
+give @p stick[item_name='Alpha Wand',custom_data={alpha_wand_t2:true},consumable={animation:"block",consume_seconds:1000000},max_stack_size=1] 1

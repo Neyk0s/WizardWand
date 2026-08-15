@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ttt",
+    "tbt",
+    "ttt"
+  ],
+  "key": {
+    "t": [
+      "minecraft:wind_charge"
+    ],
+    "b": [
+      "minecraft:breeze_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_name": "Vex Wand",
+      "minecraft:custom_data": "{vex_wand:true}",
+      "minecraft:consumable": {
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

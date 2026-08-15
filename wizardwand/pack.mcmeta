@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 120
+    },
+    "description": "Wizard Wand!"
+  }
+}

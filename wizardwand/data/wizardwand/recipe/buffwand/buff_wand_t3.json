@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eag",
+    " c ",
+    " s "
+  ],
+  "key": {
+    "e": "minecraft:netherite_sword",
+    "a": "minecraft:amethyst_shard",
+    "g": "minecraft:golden_apple",
+    "c": "minecraft:player_head",
+    "s": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stick",
+      "components": {
+        "minecraft:item_model": "wizardwand:buffwand",
+        "minecraft:item_name": {
+          "text": "",
+          "extra": [
+            { "translate": "id.item.name.master", "color": "gold", "bold": true},
+            { "translate": "id.item.name.buff", "color": "#FA9E25" }
+          ]
+        },
+      "minecraft:custom_data": "{buff_wand_t3:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+      }
+    }
+}

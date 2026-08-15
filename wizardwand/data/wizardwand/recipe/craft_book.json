@@ -1,0 +1,80 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:paper"
+  },
+  "result": {
+    "id": "minecraft:written_book",
+    "count": 1,
+    "components": {
+      "minecraft:written_book_content": {
+        "title": "Wizard wand",
+        "author": "Neykos",
+        "pages": [
+          { "translate": "id.craft.alpha.t1" },
+          { "translate": "id.craft.alpha.t2" },
+          { "translate": "id.craft.alpha.t3" },
+          { "translate": "id.craft.blaze.t1" },
+          { "translate": "id.craft.blaze.t2" },
+          { "translate": "id.craft.blaze.t3" },
+          { "translate": "id.craft.breeze.t1" },
+          { "translate": "id.craft.breeze.t2" },
+          { "translate": "id.craft.breeze.t3" },
+          { "translate": "id.craft.buff.t1" },
+          { "translate": "id.craft.buff.t2" },
+          { "translate": "id.craft.buff.t3" },
+          { "translate": "id.craft.chaos.t1" },
+          { "translate": "id.craft.damage.t1" },
+          { "translate": "id.craft.damage.t2" },
+          { "translate": "id.craft.damage.t3" },
+          { "translate": "id.craft.dragon.t1" },
+          { "translate": "id.craft.dragon.t2" },
+          { "translate": "id.craft.fang.t1" },
+          { "translate": "id.craft.fang.t2" },
+          { "translate": "id.craft.fang.t3" },
+          { "translate": "id.craft.fire.t1" },
+          { "translate": "id.craft.fire.t2" },
+          { "translate": "id.craft.fire.t3" },
+          { "translate": "id.craft.gamble.t1" },
+          { "translate": "id.craft.gamble.t2" },
+          { "translate": "id.craft.gamble.t3" },
+          { "translate": "id.craft.giant.t1" },
+          { "translate": "id.craft.giant.t2" },
+          { "translate": "id.craft.heal.t1" },
+          { "translate": "id.craft.heal.t2" },
+          { "translate": "id.craft.heal.t3" },
+          { "translate": "id.craft.ice.t1" },
+          { "translate": "id.craft.ice.t2" },
+          { "translate": "id.craft.ice.t3" },
+          { "translate": "id.craft.iron.t1" },
+          { "translate": "id.craft.iron.t2" },
+          { "translate": "id.craft.iron.t3" },
+          { "translate": "id.craft.jackpot.t1" },
+          { "translate": "id.craft.lightning.t1" },
+          { "translate": "id.craft.lightning.t2" },
+          { "translate": "id.craft.lightning.t3" },
+          { "translate": "id.craft.mining.t1" },
+          { "translate": "id.craft.mining.t2" },
+          { "translate": "id.craft.mining.t3" },
+          { "translate": "id.craft.poison.t1" },
+          { "translate": "id.craft.poison.t2" },
+          { "translate": "id.craft.poison.t3" },
+          { "translate": "id.craft.shulker.t1" },
+          { "translate": "id.craft.small.t1" },
+          { "translate": "id.craft.small.t2" },
+          { "translate": "id.craft.snow.t1" },
+          { "translate": "id.craft.snow.t2" },
+          { "translate": "id.craft.snow.t3" },
+          { "translate": "id.craft.teleport.t1" },
+          { "translate": "id.craft.teleport.t2" },
+          { "translate": "id.craft.wither.t1" },
+          { "translate": "id.craft.wither.t2" },
+          { "translate": "id.craft.wither.t3" }
+        ]
+      }
+    }
+  }
+}

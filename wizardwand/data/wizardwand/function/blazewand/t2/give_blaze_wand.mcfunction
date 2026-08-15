@@ -1,0 +1,1 @@
+give @p stick[item_name='Apprentice blaze Wand',custom_data={blaze_wand_t2:true},consumable={animation:"block",consume_seconds:1000000},max_stack_size=1] 1

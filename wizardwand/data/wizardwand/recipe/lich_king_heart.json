@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "asa",
+    "scs",
+    "asa"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard",
+    "s":  "minecraft:nether_star",
+    "c":  "minecraft:end_crystal"
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRkOTQwOWY0MzI4OGRkNDhkYzNhZTQ3YTc1ZmJmNWU1ZGQ2Yzk0YzNkM2Y3Y2Y2MWQ4OTg5YWEzYzViNTllNSJ9fX0="
+          }
+        ]
+      },
+      "minecraft:item_name": {
+        "text": "Lich King Heart", "color": "gold"
+      }
+    }
+  }
+}

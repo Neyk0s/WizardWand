@@ -1,0 +1,1 @@
+kill @e[type=minecraft:vex, tag=vex_minion_1,sort=furthest, limit=1]

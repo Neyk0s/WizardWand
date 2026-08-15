@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eag",
+    " n ",
+    " s "
+  ],
+  "key": {
+    "e": "minecraft:diamond_sword",
+    "a": "minecraft:amethyst_shard",
+    "g": "minecraft:golden_apple",
+    "n": "minecraft:nether_star",
+    "s": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:buffwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.apprentice", "color": "aqua", "bold": true},
+          { "translate": "id.item.name.buff", "color": "#FA9E25" }
+        ]
+      },
+      "minecraft:custom_data": "{buff_wand_t2:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

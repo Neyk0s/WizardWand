@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pap",
+    " c ",
+    " r "
+  ],
+  "key": {
+    "p": "minecraft:blaze_powder",
+    "a": "minecraft:amethyst_shard",
+    "c": "minecraft:player_head",
+    "r": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:blazewand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.master", "color": "gold", "bold": true},
+          { "translate": "id.item.name.blaze", "color": "#FF8C00"}
+        ]
+      },
+      "minecraft:custom_data": "{blaze_wand_t3:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}
+
+

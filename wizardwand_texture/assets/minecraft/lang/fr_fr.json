@@ -1,0 +1,137 @@
+{
+  "id.item.name.novice": "Novice",
+  "id.item.name.advanced": "Apprentice",
+  "id.item.name.master": "Maître",
+
+  "id.item.name.alpha": " Bâton de l'alpha",
+  "id.item.name.blaze": " Bâton de Blaze",
+  "id.item.name.breeze": " Bâton de Breeze",
+  "id.item.name.damage": " Bâton de dégâts",
+  "id.item.name.dragon": "Bâton draconnique",
+  "id.item.name.fang": " Bâton de morsure",
+  "id.item.name.fire": " Bâton de feu",
+  "id.item.name.gamble": " Bâton du",
+  "id.item.name.gamblewand": " parieur",
+  "id.item.name.giant": " Bâton du géant",
+  "id.item.name.heal": " Bâton de soin",
+  "id.item.name.ice": " Bâton de glace",
+  "id.item.name.iron": " Bâton de fer",
+  "id.item.name.jackpot": " Jackpot",
+  "id.item.name.lightning": " Bâton de foudre",
+  "id.item.name.mining": " Bâton du mineur",
+  "id.item.name.poison": " Bâton de poison",
+  "id.item.name.shulker": " Bâton de Shulker",
+  "id.item.name.small": " Bâton mini riquiqui",
+  "id.item.name.snow": " Bâton de neige",
+  "id.item.name.teleport": " Bâton de téléportation",
+  "id.item.name.wither": " Bâton de Wither",
+
+  "id.item.name.lich.heart": "Cœur du Roi Liche",
+  "id.item.name.lich.head": "Trophée du Roi Liche",
+
+  "id.item.name.lich.chestplate": "Plastron du Roi Liche",
+  "id.item.name.lich.chestplate_upgraded": "Plastron magique du Roi Liche",
+  "id.item.lore.lich.chestplate_upgraded": "Ce plastron runique maudit par Hiyl'dilan a sauvé un nombre incalculable defois la vie du Roi Liche, jusqu'à aujourd'hui...",
+
+  "id.item.name.lich.leggings": "Jambières du Roi Liche",
+  "id.item.name.lich.leggings_upgraded": "Jambières magiques du Roi Liche",
+  "id.item.lore.lich.leggings_upgraded": "Tribut de guerre récupéré à Garde-Hiver et offert par son frère Goliath. Ces jambières impregnées de la magie originelle ont conquis bon nombre de royaumes.",
+
+  "id.item.name.lich.boots": "Bottes du Roi Liche",
+  "id.item.name.lich.boots_upgraded": "Bottes magiques du Roi Liche.",
+  "id.item.lore.lich.boots_upgraded_alpha": "Ni l'eau, ni la neige n'a pu engloutir le règne du Roi Liche.",
+  "id.item.lore.lich.boots_upgraded": "Le sol gèle sous l'empreinte du Roi Liche.",
+
+  "id.craft.alpha.t1": "Bâton de l'alpha tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nb: Os\na: Éclat d'améthyste\nr: Bâton",
+  "id.craft.alpha.t2": "Bâton de l'alpha tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nb: Os\na: Éclat d'améthyste\ns: Étoile du Nether\nr: Bâton",
+  "id.craft.alpha.t3": "Bâton de l'alpha tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nb: Os\na: Éclat d'améthyste\nc: Cœur du Roi Liche\nr: Bâton",
+
+  "id.craft.blaze.t1": "Bâton de Blaze tier 1\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\np: Poudre de Blaze\na: Éclat d'améthyste\nr: Bâton de Blaze",
+  "id.craft.blaze.t2": "Bâton de Blaze tier 2\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\np: Poudre de Blaze\na: Éclat d'améthyste\ns: Étoile du Nether\nr: Bâton de Blaze",
+  "id.craft.blaze.t3": "Bâton de Blaze tier 3\n+---+---+---+\n|  p   |  a  |  p  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\np: Poudre de Blaze\na: Éclat d'améthyste\nc: Cœur du Roi Liche\nr: Bâton de Blaze",
+
+  "id.craft.breeze.t1": "Bâton de Breeze tier 1\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Charge de vent\na: Éclat d'améthyste\nr: Bâton de Breeze",
+  "id.craft.breeze.t2": "Bâton de Breeze tier 2\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Charge de vent\na: Éclat d'améthyste\ns: Étoile du Nether\nr: Bâton de Breeze",
+  "id.craft.breeze.t3": "Bâton de Breeze tier 3\n+---+---+---+\n|  w   |  a  |  w  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Charge de vent\na: Éclat d'améthyste\nc: Cœur du Roi Liche\nr: Bâton de Breeze",
+
+  "id.craft.buff.t1": "Bâton de buff tier 1\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\ne: Épée en fer\na: Éclat d'améthyste\ng: Pomme dorée\ns: Bâton",
+  "id.craft.buff.t2": "Bâton de buff tier 2\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\ne: Épée en diamant\na: Éclat d'améthyste\ng: Pomme dorée\nn: Étoile du Nether\ns: Bâton",
+  "id.craft.buff.t3": "Bâton de buff tier 3\n+---+---+---+\n|  e   |  a  |  g  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\ne: Épée en netherite\na: Éclat d'améthyste\ng: Pomme dorée\nc: Cœur du Roi Liche\ns: Bâton",
+
+  "id.craft.chaos.t1": "Bâton du Chaos\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  e  |      |\n+---+---+---+\n\nLégende :\ns: Étoile du Nether\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ne: Barre de l'End",
+
+  "id.craft.damage.t1": "Bâton de dégâts tier 1\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée fermenté\ns: Bâton\nl: Potion persistante",
+  "id.craft.damage.t2": "Bâton de dégâts tier 2\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée fermenté\ns: Bâton\nw: Toile d'araignée\nl: Potion persistante",
+  "id.craft.damage.t3": "Bâton de dégâts tier 3\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  n  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée fermenté\nn: Étoile du Nether\nw: Toile d'araignée\ns: Bâton\nl: Potion persistante",
+
+  "id.craft.dragon.t1": "Bâton draconnique tier 1\n+---+---+---+\n|  h   |  a  |  h  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nh: Tête de dragon\na: Éclat d'améthyste\nr: Barre de l'End",
+  "id.craft.dragon.t2": "Bâton draconnique tier 2\n+---+---+---+\n|  h   |  a  |  h  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nh: Tête de dragon\na: Éclat d'améthyste\nr: Barre de l'End",
+
+  "id.craft.fang.t1": "Bâton de morsure tier 1\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Silex\na: Éclat d'améthyste\ns: Bâton",
+  "id.craft.fang.t2": "Bâton de morsure tier 2\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Silex\na: Éclat d'améthyste\nn: Étoile du Nether\ns: Bâton",
+  "id.craft.fang.t3": "Bâton de morsure tier 3\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Silex\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ns: Bâton",
+
+  "id.craft.fire.t1": "Bâton de feu tier 1\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nf: Charge de feu\na: Éclat d'améthyste\nr: Bâton de Blaze",
+  "id.craft.fire.t2": "Bâton de feu tier 2\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nf: Charge de feu\na: Éclat d'améthyste\nn: Étoile du Nether\nr: Bâton de Blaze",
+  "id.craft.fire.t3": "Bâton de feu tier 3\n+---+---+---+\n|  f   |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nf: Charge de feu\na: Éclat d'améthyste\nc: Bloc de commande\nr: Cœur du Roi Liche",
+
+  "id.craft.gamble.t1": "Bâton du parieur tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc d'or\na: Éclat d'améthyste\ni: Lingot d'or",
+  "id.craft.gamble.t2": "Bâton du parieur tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc d'or\na: Éclat d'améthyste\nn: Étoile du Nether\ni: Lingot d'or",
+  "id.craft.gamble.t3": "Bâton du parieur tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc d'or\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ni: Lingot d'or",
+
+  "id.craft.giant.t1": "Bâton du géant tier 1\n+---+---+---+\n|  r   |  a  |  r  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nr: Chair de zombie\na: Éclat d'améthyste\nn: Étoile du Nether\ns: Bâton",
+  "id.craft.giant.t2": "Bâton du géant tier 2\n+---+---+---+\n|  r   |  a  |  r  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nr: Chair de zombie\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ns: Bâton",
+
+  "id.craft.heal.t1": "Bâton de soin tier 1\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Ficelle\ng: Larme de Ghast\ns: Bâton\nl: Potion persistante",
+  "id.craft.heal.t2": "Bâton de soin tier 2\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  s  |  t  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ng: Larme de Ghast\ns: Bâton\nt: Écaille de tortue\nl: Potion persistante",
+  "id.craft.heal.t3": "Bâton de soin tier 3\n+---+---+---+\n|      |  f  |  g  |\n+---+---+---+\n|      |  n  |  t  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ng: Larme de Ghast\nn: Étoile du Nether\nt: Écaille de tortue\ns: Bâton\nl: Potion persistante",
+
+  "id.craft.ice.t1": "Bâton de glace tier 1\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\ns: Boule de neige\na: Éclat d'améthyste\ni: Glace bleue",
+  "id.craft.ice.t2": "Bâton de glace tier 2\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\ns: Boule de neige\na: Éclat d'améthyste\nn: Étoile du Nether\ni: Glace bleue",
+  "id.craft.ice.t3": "Bâton de glace tier 3\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\ns: Boule de neige\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ni: Glace bleue",
+
+  "id.craft.iron.t1": "Bâton de fer tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc de fer\na: Éclat d'améthyste\ni: Lingot de fer",
+  "id.craft.iron.t2": "Bâton de fer tier 2\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc de fer\na: Éclat d'améthyste\nn: Étoile du Nether\ni: Lingot de fer",
+  "id.craft.iron.t3": "Bâton de fer tier 3\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc de fer\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ni: Lingot de fer",
+
+  "id.craft.jackpot.t1": "Bâton Jackpot tier 1\n+---+---+---+\n|  b   |  a  |  b  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  i   |      |\n+---+---+---+\n\nLégende :\nb: Bloc de diamant\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ni: Diamant",
+
+  "id.craft.lightning.t1": "Bâton de foudre tier 1\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nl: Paratonnerre\na: Éclat d'améthyste\ns: Bâton",
+  "id.craft.lightning.t2": "Bâton de foudre tier 2\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nl: Paratonnerre\na: Éclat d'améthyste\nn: Étoile du Nether\ns: Bâton",
+  "id.craft.lightning.t3": "Bâton de foudre tier 3\n+---+---+---+\n|  l   |  a  |  l   |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nl: Paratonnerre\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ns: Bâton",
+
+  "id.craft.mining.t1": "Bâton du mineur tier 1\n+---+---+---+\n|  p  |  a  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\np: Pioche en fer\na: Éclat d'améthyste\ns: Bâton",
+  "id.craft.mining.t2": "Bâton du mineur tier 2\n+---+---+---+\n|  p  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\np: Pioche en diamant\na: Éclat d'améthyste\nc: Carotte dorée\ns: Bâton",
+  "id.craft.mining.t3": "Bâton du mineur tier 3\n+---+---+---+\n|  p  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\np: Pioche en netherite\na: Éclat d'améthyste\nc: Carotte dorée\ns: Bâton",
+
+  "id.craft.poison.t1": "Bâton de poison tier 1\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée\ns: Bâton\nl: Potion persistante",
+  "id.craft.poison.t2": "Bâton de poison tier 2\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  s  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée\ns: Bâton\nw: Œil d'araignée fermenté\nl: Potion persistante",
+  "id.craft.poison.t3": "Bâton de poison tier 3\n+---+---+---+\n|      |  f  |  e  |\n+---+---+---+\n|      |  n  |  w  |\n+---+---+---+\n|      |  s  |  l  |\n+---+---+---+\n\nLégende :\nf: Ficelle\ne: Œil d'araignée\nn: Étoile du Nether\nw: Œil d'araignée fermenté\ns: Bâton\nl: Potion persistante",
+
+  "id.craft.shulker.t1": "Bâton de Shulker tier 1\n+---+---+---+\n|  s   |  a  |  s  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\ns: Coquille de shulker\na: Éclat d'améthyste\nr: Bâton de l'End",
+
+  "id.craft.small.t1": "Bâton mini riquiqui tier 1\n+---+---+---+\n|  f  |  a  |  f  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Patte de lapin\na: Éclat d'améthyste\nn: Étoile du Nether\ns: Bâton",
+  "id.craft.small.t2": "Bâton mini riquiqui tier 2\n+---+---+---+\n|  f  |  a  |  f  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nf: Patte de lapin\na: Éclat d'améthyste\nc: Cœur du Roi Liche\ns: Bâton",
+
+  "id.craft.snow.t1": "Bâton de neige tier 1\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nc: Citrouille sculptée\na: Éclat d'améthyste\ns: Bloc de neige",
+  "id.craft.snow.t2": "Bâton de neige tier 2\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nc: Citrouille sculptée\na: Éclat d'améthyste\nn: Étoile du Nether\ns: Bloc de neige",
+  "id.craft.snow.t3": "Bâton de neige tier 3\n+---+---+---+\n|  c  |  a  |  c  |\n+---+---+---+\n|      |  b  |      |\n+---+---+---+\n|      |  s  |      |\n+---+---+---+\n\nLégende :\nc: Citrouille sculptée\na: Éclat d'améthyste\nb: Cœur du Roi Liche\ns: Bloc de neige",
+
+  "id.craft.teleport.t1": "Bâton de téléportation tier 1\n+---+---+---+\n|  e  |  a  |  e  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\ne: Perle de l'Ender\na: Éclat d'améthyste\nr: Bâton de l'End",
+  "id.craft.teleport.t2": "Bâton de téléportation tier 2\n+---+---+---+\n|  e  |  a  |  e  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\ne: Perle de l'Ender\na: Éclat d'améthyste\nc: Cœur du Roi Liche\nr: Bâton de l'End",
+
+  "id.craft.wither.t1": "Bâton de Wither tier 1\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Crâne de Wither squelette\na: Éclat d'améthyste\nr: Bâton de Blaze",
+  "id.craft.wither.t2": "Bâton de Wither tier 2\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  n  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Crâne de Wither squelette\na: Éclat d'améthyste\nn: Étoile du Nether\nr: Bâton de Blaze",
+  "id.craft.wither.t3": "Bâton de Wither tier 3\n+---+---+---+\n|  w  |  a  |  w  |\n+---+---+---+\n|      |  c  |      |\n+---+---+---+\n|      |  r  |      |\n+---+---+---+\n\nLégende :\nw: Crâne de Wither squelette\na: Éclat d'améthyste\nc: Cœur du Roi Liche\nr: Bâton de Blaze",
+
+  "id.dialogue.lichking.attack_1": "Faites que ma colère s'abat sur les plus faibles !",
+  "id.dialogue.lichking.attack_2.part_1": "Soldats de ",
+  "id.dialogue.lichking.attack_2.part_2": "Garde-Hiver ",
+  "id.dialogue.lichking.attack_2.part_3": "! Levez-vous !",
+  "id.dialogue.lichking.attack_3": "Que le froid mordant vous glace le sang !",
+  "id.dialogue.lichking.phase_2": "Cavaliers ! Servez votre roi !",
+  "id.dialogue.lichking.phase_3_a": "Laurent",
+  "id.dialogue.lichking.phase_3_b": "...Prête moi ta force une dernière fois !",
+  "id.dialogue.lichking.phase_4": "Je t'emporterai avec moi, misérable insecte !"
+
+}

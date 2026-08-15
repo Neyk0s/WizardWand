@@ -1,0 +1,2 @@
+#Give the executor a breeze wand
+give @p stick[item_name='Vex Wand',custom_data={vex_wand:true},food={nutrition:0,saturation:0,can_always_eat:true},consumable={consume_seconds:1000000},max_stack_size=1] 1

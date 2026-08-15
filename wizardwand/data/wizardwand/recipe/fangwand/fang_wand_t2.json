@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "faf",
+    " n ",
+    " s "
+  ],
+  "key": {
+    "f": "minecraft:flint",
+    "a": "minecraft:amethyst_shard",
+    "n": "minecraft:nether_star",
+    "s": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:item_model": "wizardwand:fangwand",
+      "minecraft:item_name": {
+        "text": "",
+        "extra": [
+          { "translate": "id.item.name.advanced", "color": "aqua", "bold": true},
+          { "translate": "id.item.name.fang", "color": "#736a6a" }
+        ]
+      },
+      "minecraft:custom_data": "{fang_wand_t2:true}",
+      "minecraft:consumable": {
+        "animation":"block",
+        "consume_seconds": 1000000
+      },
+      "minecraft:max_stack_size": 1
+    }
+  }
+}

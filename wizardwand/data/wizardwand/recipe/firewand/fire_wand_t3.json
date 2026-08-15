@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"faf",
+		" c ",
+		" r "
+	],
+	"key": {
+		"f": "minecraft:fire_charge",
+		"a": "minecraft:amethyst_shard",
+		"c": "minecraft:command_block",
+		"r": "minecraft:player_head"
+	},
+	"result": {
+		"id": "minecraft:stick",
+		"components": {
+			"minecraft:item_model": "wizardwand:firewand",
+			"minecraft:item_name": {
+				"text": "",
+				"extra": [
+					{ "translate": "id.item.name.master", "color": "gold", "bold": true},
+					{ "translate": "id.item.name.fire", "color": "#B52D00"}
+				]
+			},
+			"minecraft:custom_data": "{fire_wand_t3:true}",
+			"minecraft:consumable": {
+				"animation":"block",
+				"consume_seconds": 1000000
+			},
+			"minecraft:max_stack_size": 1
+		}
+	}
+}
