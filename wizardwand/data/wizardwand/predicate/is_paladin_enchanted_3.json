@@ -7,7 +7,7 @@
         "predicates": {
           "minecraft:enchantments": [
             {
-              "enchantment": "wizardwand:paladin_strike",
+              "enchantments": "wizardwand:paladin_strike",
               "levels": 3
             }
           ]

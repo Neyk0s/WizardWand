@@ -10,7 +10,7 @@
         "predicates": {
           "minecraft:enchantments": [
             {
-              "enchantment": "wizardwand:rogue_stealth",
+              "enchantments": "wizardwand:rogue_stealth",
               "levels": 3
             }
           ]

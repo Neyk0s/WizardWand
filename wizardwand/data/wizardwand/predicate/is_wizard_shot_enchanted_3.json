@@ -7,7 +7,7 @@
         "predicates": {
           "minecraft:enchantments": [
             {
-              "enchantment": "wizardwand:wizard_shot",
+              "enchantments": "wizardwand:wizard_shot",
               "levels": 3
             }
           ]
