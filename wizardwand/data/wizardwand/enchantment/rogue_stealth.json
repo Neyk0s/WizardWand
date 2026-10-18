@@ -3,10 +3,18 @@
   "supported_items": "#minecraft:swords",
   "weight": 2,
   "max_level": 3,
-  "min_cost": { "base": 10, "per_level_above_first": 10 },
-  "max_cost": { "base": 30, "per_level_above_first": 10 },
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 10
+  },
   "anvil_cost": 4,
-  "slots": ["mainhand"],
+  "slots": [
+    "mainhand"
+  ],
   "effects": {
     "minecraft:tick": [
       {
@@ -18,7 +26,15 @@
           "min_amplifier": 0,
           "max_amplifier": 0
         },
-        "requirements": { "condition": "minecraft:entity_properties", "entity": "this", "predicate": { "flags": { "is_sneaking": true } } }
+        "requirements": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "flags": {
+              "is_sneaking": true
+            }
+          }
+        }
       }
     ]
   }
