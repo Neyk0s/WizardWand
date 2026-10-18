@@ -1,9 +1,9 @@
 {
   "pack": {
-    "supported_formats": {
-      "min_inclusive": 7,
-      "max_inclusive": 120
-    },
-    "description": "Wizard Wand!"
+    "description": "WizardWand Datapack",
+    "pack_format": 15,
+    "supported_formats": [ 15, 121 ],
+    "min_format": 15,
+    "max_format": 121.0
   }
 }
