@@ -26,7 +26,10 @@ tellraw @a {"text":"TEST LOAD", "color":"dark_gray"}
 # Gestion tirs
 
 # Blaze
-scoreboard objectives add blaze_timer dummy
+scoreboard objectives add blaze_timer_t1 dummy
+scoreboard objectives add blaze_timer_t2 dummy
+scoreboard objectives add blaze_timer_t3 dummy
+scoreboard objectives add blaze_timer_gamble dummy
 
 # Dragon T2
 scoreboard objectives add bh_timer dummy

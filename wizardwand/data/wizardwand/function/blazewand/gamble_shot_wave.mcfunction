@@ -1,21 +1,11 @@
-execute as @e[tag=drone_gamble,scores={blaze_timer=30}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=27}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=24}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=21}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=18}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=15}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=12}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=9}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=6}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=3}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
-
-execute as @e[tag=drone_gamble,scores={blaze_timer=0}] at @s anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=30}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=27}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=24}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=21}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=18}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=15}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=12}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=9}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=6}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=3}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble
+execute as @e[scores={blaze_timer_gamble=1}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/gamble

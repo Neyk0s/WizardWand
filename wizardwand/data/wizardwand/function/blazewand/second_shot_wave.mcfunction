@@ -1,4 +1,4 @@
-execute as @e[tag=drone_t2,scores={blaze_timer=9}] at @s anchored eyes run function wizardwand:blazewand/shot/t2
-execute as @e[tag=drone_t2,scores={blaze_timer=6}] at @s anchored eyes run function wizardwand:blazewand/shot/t2
-execute as @e[tag=drone_t2,scores={blaze_timer=3}] at @s anchored eyes run function wizardwand:blazewand/shot/t2
-execute as @e[tag=drone_t2,scores={blaze_timer=0}] at @s anchored eyes run function wizardwand:blazewand/shot/t2
+execute as @e[scores={blaze_timer_t2=9}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/t2
+execute as @e[scores={blaze_timer_t2=6}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/t2
+execute as @e[scores={blaze_timer_t2=3}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/t2
+execute as @e[scores={blaze_timer_t2=1}] at @p[sort=nearest,limit=1] rotated as @p[sort=nearest,limit=1] anchored eyes run function wizardwand:blazewand/shot/t2

@@ -5,8 +5,7 @@ function wizardwand:blazewand/gamble_shot_wave
 
 execute as @e[tag=motion_projectile] at @s run function wizardwand:blazewand/particles
 
-scoreboard players remove @e[tag=blaze_drone] blaze_timer 1
-kill @e[tag=blaze_drone,scores={blaze_timer=..-1}]
-kill @e[tag=drone_t2,scores={blaze_timer=..-1}]
-kill @e[tag=drone_t3,scores={blaze_timer=..-1}]
-kill @e[tag=drone_gamble,scores={blaze_timer=..-1}]
+scoreboard players remove @a[scores={blaze_timer_t1=1..}] blaze_timer_t1 1
+scoreboard players remove @a[scores={blaze_timer_t2=1..}] blaze_timer_t2 1
+scoreboard players remove @a[scores={blaze_timer_t3=1..}] blaze_timer_t3 1
+scoreboard players remove @a[scores={blaze_timer_gamble=1..}] blaze_timer_gamble 1
